@@ -1,0 +1,21 @@
+/* demo css dark */
+body
+{
+  background-color: #3b3b3b;
+}
+.center
+{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+.center::before
+{
+    content: '🌚️';
+    font-size: 100px;
+}
