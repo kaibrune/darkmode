@@ -20,7 +20,7 @@ function darkTheme() {
   s1.type = "text/css";
   s1.rel = "stylesheet";
   s1.type = "text/css";
-  s1.href = "css/style_dark.css"; // change your stylesheet
+  s1.href = "css/style_dark.css"; // change your dark stylesheet
   document.getElementsByTagName('head')[0].appendChild(s1);
   console.log("darktheme");
 }
@@ -30,7 +30,7 @@ var s1 = document.createElement("link");
 s1.type = "text/css";
 s1.rel = "stylesheet";
 s1.type = "text/css";
-s1.href = "css/style.css"; // change your stylesheet
+s1.href = "css/style.css"; // change your light stylesheet
 document.getElementsByTagName('head')[0].appendChild(s1);
 console.log("lighttheme");
 }
