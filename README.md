@@ -9,7 +9,7 @@ Change the stylesheet easy and quick depending on the time of day.
 
 ### Demo
 
-Give it a try [here](https://kaibrune.github.io/demo/darkmode/).
+Give it a try [here](https://kaibrune.github.io/darkmode/).
 
 ### Download
 
