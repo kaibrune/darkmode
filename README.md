@@ -11,3 +11,6 @@ Change the stylesheet easy and quick depending on the time of day.
 
 Give it a try [here](https://kaibrune.github.io/demo/darkmode/).
 
+### Download
+
+Download the current version [here](https://github.com/kaibrune/darkmode/releases/tag/v1.0). 
